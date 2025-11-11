@@ -1,13 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey%2C+I'm+a+Blockchain+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   I specialize in building scalable and secure decentralized applications.
   <br><br>
   🦄 DeFi • 🧠 AI + Crypto • ⚙️ Smart Contracts • 🔁 Cross-Chain • ⚡ Real-Time Bots
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Blockchain-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stack-Solana%20%7C%20EVM%20%7C%20AI-black?style=for-the-badge" />
